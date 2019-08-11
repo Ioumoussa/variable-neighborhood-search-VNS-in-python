@@ -21,7 +21,7 @@ def tuple_not_exists(list, t):
         if elm == t:
             return False
     return True
-
+//
 def shaking(L, k):
     resultat_swap = []
     resultat_inversion = []
